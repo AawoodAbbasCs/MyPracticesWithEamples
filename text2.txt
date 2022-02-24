@@ -1,0 +1,12 @@
+ Volume in drive E has no label.
+ Volume Serial Number is A2C4-9625
+
+ Directory of E:\Wrexim\Git Projects
+
+24-Feb-22  04:37 PM    <DIR>          .
+24-Feb-22  04:37 PM    <DIR>          ..
+24-Feb-22  01:57 PM                22 index.html
+24-Feb-22  01:56 PM                74 text1.txt
+24-Feb-22  04:37 PM                 0 text2.txt
+               3 File(s)             96 bytes
+               2 Dir(s)  190,382,231,552 bytes free
